@@ -1,0 +1,17 @@
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.AssemblyReference.cache
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+D:\Projects\Interviews\Mindex\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
+D:\Projects\Interviews\Mindex\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeCompensationSeedData.json
